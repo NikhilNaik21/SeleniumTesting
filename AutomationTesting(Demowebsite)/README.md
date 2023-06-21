@@ -6,4 +6,11 @@ Task
 - clear username
 - Re-enter proper username
 - print username entered in console
-- 
+- Enter last name
+- Enter Address , Email , Phone
+- Select Gender [Radio Button]
+- Select Hobbies
+- Select Skills [Drop_Down menu]
+- Select DOB 
+- Enter password and confirm password
+- Check and Print title on console
