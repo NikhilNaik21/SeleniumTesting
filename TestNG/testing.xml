@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+    <class name="com.com.day1.NewTest"/>
+      <class name="com.com.day1.Login"/>
+      <parameter name ="uname" value="mngr510047"/>
+            <parameter name ="pwd" value="pYnUruq"/>
+      
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
